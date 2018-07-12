@@ -1,1 +1,1 @@
-# GenericAlgorithm for Educational Data Mining
+# Genetic Algorithms for Educational Data Mining
