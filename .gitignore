@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+DATASET_NUMERICO_ALUNOS_FORMADOS-EVADIDOS_2012-2018.xlsx
