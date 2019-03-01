@@ -1,1 +1,1 @@
-# Genetic Algorithms for Educational Data Mining
+# Decision Tree using Genetic Algorithms for Educational Data Mining
